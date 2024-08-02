@@ -1,6 +1,8 @@
+
 <h1 align="center";>Home</h1>
   
-![Home](https://github.com/user-attachments/assets/cc65b33a-36ff-4b95-801d-d1dd1e2b81d5)
+![Home](https://github.com/user-attachments/assets/a8f12385-3e73-4c42-a87a-a607e3f111fa)
+
 
  #### <center>Esse projeto foi pensado em facilitar o dia a dia do usuário lançando **↑**`receita` ou **↓**`despesa.`</center>
 
@@ -79,7 +81,8 @@
  ***
 <h1 align="center";>Login</h1>
 
-![Login](https://github.com/user-attachments/assets/0f584ddd-712b-4070-b6d6-7d573f80f342)
+![Login](https://github.com/user-attachments/assets/b2ec60b3-31b8-416f-95db-8bee75cf677f)
+
 
 <h5 align="justify";>
 <p>React e React Native : principais bibliotecas do React e do React Native que foi usado na tela <i>Login.</i></p></h5>
@@ -150,7 +153,8 @@ O link "Criar uma conta!" permite a navegação até a tela de inscrição.</p><
 ***
 <h1 align="center";>CustomDrawer</h1>
 
-![CustomDrawer](https://github.com/user-attachments/assets/bcc3b2f3-7c6d-4102-be75-00a9727d6e13)
+![CustomDrawer](https://github.com/user-attachments/assets/191c61ff-c3d3-4836-9ee1-b3f721e378df)
+
 <h4 align="justify">
   Importações
 </h4>
@@ -198,7 +202,8 @@ Finalmente, o <i>DrawerItemList</i> é renderizado, listando os itens de navega�
 
 <h1 align="center";>CalendarModal</h1>
 
-![CalendarModal](https://github.com/user-attachments/assets/c066e8b7-5f15-4139-bb3f-8bd3e9883767)
+![CalendarModal](https://github.com/user-attachments/assets/757c7a8d-5e0b-4fc0-9686-1c98435f4c17)
+
 <h4>CalendarModal</h4>
 <h5 align="justify";>
 <p>O <i>CalendarModal</i> é um componente do React Native que renderiza um modal contendo um calendário para seleção de data. Ele usa a <i>react-native-calendars</i> uma biblioteca que exibi o calendário e permite que os usuários selecionem uma data.</p></h5>
@@ -242,7 +247,7 @@ A <i>setVisible</i> controla a visibilidade do modal, permitindo que ele seja fe
 ***
 <h1 align="center";>New</h1>
 
-![New](https://github.com/user-attachments/assets/4c039a55-b305-4ab1-b5bd-5da1fb107f50)
+![New](https://github.com/user-attachments/assets/f2b01825-a705-4038-b6cd-40283dc78d04)
 
 <h2>Componentes e Imports</h2>
 <h4>React e Hooks (useState)</h4>
@@ -314,7 +319,7 @@ RegisterTypes: Um componente para selecionar o tipo de registro (receita ou desp
  ***
 <h1 align="center";>Profile</h1>
 
-![Profile](https://github.com/user-attachments/assets/82c42534-36ed-4643-8929-f9de815dbe55)
+![Profile](https://github.com/user-attachments/assets/63f981f7-dd33-4194-9757-a988358f71a5)
 
 <h2 align="justify";>Importações</h2>
 <h4>React e Hooks:</h4>
@@ -367,3 +372,35 @@ RegisterTypes: Um componente para selecionar o tipo de registro (receita ou desp
 Esse é o fluxo básico do componente <i>Profile</i>. Ele fornece uma interface simples para exibir informações do usuário e realizar ações como navegação e logout.</p></h5>
 
 ***
+
+
+
+
+
+
+
+
+ 
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
