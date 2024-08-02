@@ -1,20 +1,40 @@
-import { StatusBar } from 'expo-status-bar';
-import { StyleSheet, Text, View } from 'react-native';
+import 'react-native-gesture-handler';
+import React from 'react';
+import { StatusBar } from 'react-native';
+import { NavigationContainer } from '@react-navigation/native';
+import { useFonts, Poppins_500Medium, Poppins_600SemiBold } from '@expo-google-fonts/poppins';
+import { Roboto_500Medium, Roboto_700Bold } from "@expo-google-fonts/roboto";
+import { Montserrat_500Medium, Montserrat_600SemiBold } from "@expo-google-fonts/montserrat";
+import { DancingScript_400Regular, DancingScript_500Medium, DancingScript_600SemiBold, DancingScript_700Bold } from '@expo-google-fonts/dancing-script';
+
+import Routes from './src/routes';
+import AuthProvider from './src/contexts/auth';
 
 export default function App() {
+  const [fontsLoaded] = useFonts({
+     Poppins_500Medium,
+     Poppins_600SemiBold,
+     Roboto_500Medium,
+     Roboto_700Bold,
+     Montserrat_500Medium,
+     Montserrat_600SemiBold,
+     DancingScript_400Regular,
+     DancingScript_500Medium,
+     DancingScript_600SemiBold,
+     DancingScript_700Bold
+  });
+
+     if(!fontsLoaded){
+       return null;
+     }
+
   return (
-    <View style={styles.container}>
-      <Text>Open up App.js to start working on your app!</Text>
-      <StatusBar style="auto" />
-    </View>
+    <NavigationContainer>
+      <AuthProvider>
+      <StatusBar backgroundColor="#F0F4FF" barStyle="dark-content"/>
+      <Routes/>
+      </AuthProvider>
+    </NavigationContainer>
   );
 }
 
-const styles = StyleSheet.create({
-  container: {
-    flex: 1,
-    backgroundColor: '#fff',
-    alignItems: 'center',
-    justifyContent: 'center',
-  },
-});
