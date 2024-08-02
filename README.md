@@ -393,7 +393,7 @@ Esse é o fluxo básico do componente <i>Profile</i>. Ele fornece uma interface 
 <h4>Variaveis Ambiente</h4>
 <h5 align="justify;>
 <p>Configure as variáveis ambiente para o java e para Android Studio Instalado na máquina</p></h5>
-<h1 alig="center">Considerações finais</h1>
+<h1 align="center">Considerações finais</h1>
 <h5 align="justify">
 <p>O App Finanças foi desenvolvido pelo <i></i>Anselmo Polcaro</i> con intuito de facilitar a vida do usuário comum calculando seu rendimento e sua despesa todos os dias até ele ter uma noção de como vai ficar no fim de um <i>dia</i>, ou de uma <i>semamana</i>, ou de um <i>mês</i>, ou de 1 <i>ano</i>.</p></h5>
 
