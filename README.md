@@ -373,6 +373,34 @@ Esse é o fluxo básico do componente <i>Profile</i>. Ele fornece uma interface 
 
 ***
 
+<h1 align="center";>Pré-requisitos e instalação</h1>
+<h4>Node.js</h4>
+<h5 align="justify";>
+<p>Instale o Node.js: Uma versão atual do Node.js baixado do site oficial.</p></h5>
+<h4>Chocolate</h4> 
+<h5 align="justify;>
+<p>Atenção!!! Use uma versão do NodeJs compativel com a biblioteca chocolate.</p></h5>
+ <h4>Phyton</h4> 
+ <h5 align="justify;>
+  Instale as versôes: phyton 2, 3 e o mais recente. e o Java SDK normal.
+</p></h5>
+<h4>Windows Power Shewll</h4>
+<h5 align="justify";>
+<p>Uma versão atualizada PowerShell disponível no site oficial</p></h5>
+<h4>Visual Studio Code Atualizado</h4>
+<h5 align="justify;>
+<p>Baixe do site oficial de preferência a mais recente</p></h5>
+<h4>Variaveis Ambiente</h4>
+<h5 align="justify;>
+<p>Configure as variáveis ambiente para o java e para Android Studio Instalado na máquina</p></h5>
+<h2>Considerações finais</h2>
+<p>O App Finanças foi desenvolvido pelo <i></i>Anselmo Polcaro</i> con intuito de facilitar a vida do usuário comum calculando seu rendimento e sua despesa todos os dias até ele ter uma noção de como vai ficar no fim de um <i>dia</i>, ou de uma <i>semamana</i>, ou de um <i>mês</i>, ou de 1 <i>ano</i>.</p>
+
+
+
+
+
+
 
 
 
