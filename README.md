@@ -11,7 +11,7 @@
 </h2>
 
 <h5 align="justify";>
-<p>Pensanso em melhorar a vida da familiar esse App foi desenvolvido com a tecnologia do <i>React JavaScript</i> por meio do <i>Visual Studio Code</i> com intuito de fazer o calculo da ↑receita ou ↓despesa, o qual gerencia e visualiza transações financeiras ou movimentos financeiros de um usuário. Além disso, possui Filtro de data por dia selecionado que permite guardar todos os lançamentos feito naquele dia. E no dia seguinte pode ser feito um novo registro no banco de dados.</i>
+<p>Pensando em melhorar a vida da familiar esse App foi desenvolvido com a tecnologia do <i>React JavaScript</i> por meio do <i>Visual Studio Code</i> com intuito de fazer o calculo da ↑receita ou ↓despesa, o qual gerencia e visualiza transações financeiras ou movimentos financeiros de um usuário. Além disso, possui Filtro de data por dia selecionado que permite guardar todos os lançamentos feito naquele dia. E no dia seguinte pode ser feito um novo registro no banco de dados.</i>
 </p></h5>
 
 <h2 align="justify";>
