@@ -373,7 +373,7 @@ Esse é o fluxo básico do componente <i>Profile</i>. Ele fornece uma interface 
 
 ***
 
-<h1 align="center";>Pré-requisitos e instalação</h1>
+<h1 align="center";>Pré-requisitos</h1>
 <h4>Node.js</h4>
 <h5 align="justify";>
 <p>Instale o Node.js: Uma versão atual do Node.js baixado do site oficial.</p></h5>
