@@ -2,10 +2,10 @@
 🚀 <h1 align="center">Construi um App de Finanças com React Native e persistência de login com Async Storage</h1>
 Estou empolgado em compartilhar o progresso no meu projeto de aplicativo utilizando React Native. A seguir, explico os principais componentes do aplicativo:
 <h1 align="justify">Tela de Login e Home:</h1>
-<h2 align="justify">Funções: Implementa autenticação com Async Storage.</h2>
-<h2 align="justify">Componentes:</h2> Utiliza instyled-components com Input personalizado para entrada de email e senha mascarada, e ToutableOpacity com Icone do olho da biblioteca Expo para criar uma conta ou fazer login.
-Recursos: Mostra um indicador de carregamento (ActivityIndicator) durante operações de autenticação e exibe mensagens de erro ou sucesso com Alert.
-Navegação: Após autenticação bem-sucedida, o usuário é redirecionado para a Minhas Movimentações
+<h2 align="justify">Funções:</h2> <p>Implementa autenticação com Async Storage.</p>
+<h2 align="justify">Componentes:</h2> <p>Utiliza instyled-components com Input personalizado para entrada de email e senha mascarada, e ToutableOpacity com Icone do olho da biblioteca Expo para criar uma conta ou fazer login.
+Recursos: Mostra um indicador de carregamento (ActivityIndicator) durante operações de autenticação e exibe mensagens de erro ou sucesso com Alert.</p>
+<h2 align="justify">Navegação:</h2> <p>Após autenticação bem-sucedida, o usuário é redirecionado para a Minhas Movimentações</p>
 <h1 align="justify">Tela de Minhas Movimentações:</h1>
 <h2 align="justify">Funções:</h2> Mostra saldo atual, entradas de hoje e saidas de hoje em horizontal. e Na vertical lista em Ultimas movimentações, as movimentações do dia do usuário.
 Componentes: Usa instyled-components com FlatList personalizado e redenizando BalaceItem para listar os balanços do dia existentes.
