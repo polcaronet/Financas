@@ -23,3 +23,6 @@ React Native para desenvolvimento mobile.
 React Navigation para navegação entre telas.
 CustomDrawer para um menu mais estilizado.
 Styled Components para TextInput e ToutableOpacity.
+
+<a href="https://www.linkedin.com/posts/anselmo-polcaro-ribeiro-b2a570207_reactnative-mobiledevelopment-appdevelopment-activity-7225235517531914240-A1UG?utm_source=share&utm_medium=member_desktop" target="_blank">App-Financas</a>
+
