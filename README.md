@@ -1,4 +1,9 @@
 
+![App-financas](https://github.com/user-attachments/assets/4fcdcff7-9675-4724-a28a-377a705d668e)
+
+    
+     
+
 🚀 <h1 align="center">Construi um App de Finanças com React Native e persistência de login com Async Storage</h1>
 Estou empolgado em compartilhar o progresso no meu projeto de aplicativo utilizando React Native. A seguir, explico os principais componentes do aplicativo:
 <h1 align="justify">Tela de Login e Home:</h1>
